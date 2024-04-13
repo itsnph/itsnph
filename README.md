@@ -1,9 +1,6 @@
-### Ahoy there!
+### Ahoy there! ૮˶• ﻌ •˶ა
 
-I've done some work on geographical biases in natural history collections, you can find out more about this project in its repository @itsnph/geo-bias-nhm!
-
-૮˶• ﻌ •˶ა
-./づ~ ♡ See ya round!
+Here you can find out about my work on geographical biases in natural history collections! More about this project, its code, figures, and workflows, can be found in its repository @itsnph/geo-bias-nhm!
 
 <!--
 **itsnph/itsnph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
