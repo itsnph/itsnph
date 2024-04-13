@@ -1,4 +1,4 @@
-### Ahoy there! ʕ•ᴥ•ʔ
+### Ahoy there! ૮ • ﻌ - ა
 
 I've done some work on geographical biases in natural history collections, you can find out more about this project in its repository @itsnph/geo-bias-nhm!
 
